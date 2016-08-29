@@ -1,0 +1,23 @@
+---
+title: "Lista de Caificaciones Hasta ahora"
+author: "Manuel Hernández"
+date: "29 de agosto de 2016"
+output: html_document
+
+# Mis calificaciones conseguidas hasta ahora:
+
+## Semestre 1
+* Introducción a la profesión actuarial : 7
+* Programación actuarial I : 10
+* Desarrollo de habilidades del pensamiento complejo 6
+* Conceptos de cálculo : 10
+
+##Semestre 2
+* Teoría del interés I : 8
+* Programación actuarial II : 6
+* Matemáticas Básicas I : 8
+* Problemas de matemáticas básicas : 8
+* Teoría de ecuaciones : 8
+* Formación humana y social : 10
+
+Promedio conseguido hasta ahora : **8.1**
