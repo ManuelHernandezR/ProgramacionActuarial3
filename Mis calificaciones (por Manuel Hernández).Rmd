@@ -21,6 +21,6 @@ output: html_document
 * Formación humana y social : 10
 
 ##Semestre 3
-*Teoría del interés II : 8
+* Teoría del interés II : 8
 
-Promedio conseguido hasta ahora : **8.1**
+Promedio conseguido hasta ahora : **8.09**
