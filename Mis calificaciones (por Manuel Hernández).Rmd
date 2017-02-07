@@ -1,23 +1,26 @@
 ---
 title: "Lista de Caificaciones Hasta ahora"
-author: "Manuel Hern�ndez"
+author: "Manuel Hernández"
 date: "29 de agosto de 2016"
 output: html_document
 
 # Mis calificaciones conseguidas hasta ahora:
 
 ## Semestre 1
-* Introducci�n a la profesi�n actuarial : 7
-* Programaci�n actuarial I : 10
+* Introducción a la profesión actuarial : 7
+* Programación actuarial I : 10
 * Desarrollo de habilidades del pensamiento complejo 6
-* Conceptos de c�lculo : 10
+* Conceptos de cálculo : 10
 
 ##Semestre 2
-* Teor�a del inter�s I : 8
-* Programaci�n actuarial II : 6
-* Matem�ticas B�sicas I : 8
-* Problemas de matem�ticas b�sicas : 8
-* Teor�a de ecuaciones : 8
-* Formaci�n humana y social : 10
+* Teoría del interés I : 8
+* Programación actuarial II : 6
+* Matemáticas Básicas I : 8
+* Problemas de matemáticas básicas : 8
+* Teoría de ecuaciones : 8
+* Formación humana y social : 10
+
+##Semestre 3
+*Teoría del interés II : 8
 
 Promedio conseguido hasta ahora : **8.1**
